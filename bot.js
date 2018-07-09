@@ -20,4 +20,4 @@ bot.on("ready", async () => {
     console.log(bot.commands);
     bot.user.setPresence({ game: { name: `My Siblings | U/help for help`, url: 'https://twitch.tv/monstercat', type: 1 } });
 });
-bot.login("NDY1NTc3MzcyNDA2NTEzNjc4.DiP5Qg.BXNdnhgMSavdW08l0TCKRLvZ9O8");
+bot.login("");
